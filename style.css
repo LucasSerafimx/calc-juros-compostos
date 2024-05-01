@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+  --linear-gradient:linear-gradient(90deg,#38bdf8,#6d28d9,#4c1d95);
+  --color-text:#d1d5db;
+  --color-text-label:#c8ced6;
+  --color-background:#262626;
+  --color-border:#4c1d95;
+}
+
+*{
+  font-family: 'Poppins',sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--linear-gradient);
+  color: var(--color-text);
+}
+
+#calculator{
+  background-color: var(--color-background);
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.323);
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+#calculator h2{
+  font-size: 30px;
+  position: relative;
+}
+
+#calculator h2::before{
+  position: absolute;
+  content:'';
+  height: 3px;
+  width: 150px;
+  background: var(--linear-gradient);
+  bottom: 5px;
+}
+
+#input_box{
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.input-field{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.input-field label{
+  font-size: 15px;
+  color: var(--color-text-label);
+  font-weight: 500;
+}
+
+.input-field input{
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+  padding: 5px 10px;
+  font-size: 20px;
+}
+
+.input-field input::-webkit-inner-spin-button,
+.input-field input::-webkit-outer-spin-button{
+  -webkit-appearance: none;
+}
+
+
+.input-field input:focus{
+  outline: none;
+}
+
+#result{
+  text-align: center;
+}
+
+#total{
+  font-size: 40px;
+}
+
+#calculate{
+  background: var(--linear-gradient);
+  border:none;
+  padding: 10px;
+  color: var(--color-text);
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+}
