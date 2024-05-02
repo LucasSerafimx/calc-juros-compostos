@@ -37,7 +37,7 @@ Então, estamos trabalhando em um projeto de programação para criar uma calcul
 
 ## 🚀 Realizando o Deploying <a name = "deployment"></a>
 Deploy realizado no proprio GitHub Pages.
-[Deploy]([#autores](https://lucasserafimx.github.io/calc-juros-compostos/))
+[Deploy](https://lucasserafimx.github.io/calc-juros-compostos/)
 
 
 ## ⛏️ Feito <a name = "feito_com"></a>
