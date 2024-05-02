@@ -36,7 +36,7 @@ Então, estamos trabalhando em um projeto de programação para criar uma calcul
 - Número de Meses: Este é o período de tempo, em meses, durante o qual os juros serão calculados. Por exemplo, se você deseja calcular os juros compostos ao longo de um período de 12 meses, digite 12 nesta caixa.
 
 ## 🚀 Realizando o Deploying <a name = "deployment"></a>
-Deploy realizado no proprio GitHub Pages.
+Deploy realizado no proprio GitHub Pages. <br>
 [Deploy](https://lucasserafimx.github.io/calc-juros-compostos/)
 
 
