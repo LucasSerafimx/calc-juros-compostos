@@ -37,6 +37,7 @@ Então, estamos trabalhando em um projeto de programação para criar uma calcul
 
 ## 🚀 Realizando o Deploying <a name = "deployment"></a>
 Deploy realizado no proprio GitHub Pages.
+![Deploy]([https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://lucasserafimx.github.io/calc-juros-compostos/))
 
 ## ⛏️ Feito <a name = "feito_com"></a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
