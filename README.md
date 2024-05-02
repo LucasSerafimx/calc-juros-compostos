@@ -1,86 +1,47 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Logo do Projeto"></a>
+ <img width=800px height=350px src="./img/Calc_Juros.png" alt="Logo do Projeto"></a>
 </p>
 
-<h3 align="center">Título do Projeto</h3>
+<h3 align="center">Calculadora de Juros Compostos</h3>
 
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+  
 
 </div>
 
 ---
 
-<p align="center"> Descreva o seu projeto em algumas linhas.
+<p align="center"> Projeto de calculo de juros valor inicial + taxa de juros mês + tempo de rendimento.
     <br> 
 </p>
 
 ## 📝 Índice
 + [Sobre](#sobre)
-+ [Primeiros Passos](#primeiros_passos)
 + [Realizando o Deploying](#deployment)
 + [Uso](#uso)
-+ [Feito Com](#feito_com)
-+ [TODO](../TODO.md)
-+ [Contribuição](../CONTRIBUTING.md)
++ [Feito](#feito_com)
 + [Autores](#autores)
-+ [Agradecimentos](#agradecimentos)
 
 ## 🧐 Sobre <a name = "sobre"></a>
-Escreva entre 1-2 parágrafos uma descriçāo com o propósito do seu projeto.
-
-## 🏁 Primeiros Passos <a name = "primeiros_passos"></a>
-Estas intruçōes te darão uma cópia funcional do projeto na sua máquina local para desenvolvimento e testes. Veja [deployment](#deployment) para uma descrição de como realizar o deployment desse projeto online.
-
-### Pré-requisitos
-
-Descreva o que é necessário para instalar este software e como instalá-lo.
-
-```
-Cite exemplos
-```
-
-### Instalação
-
-Passo-a-passo com exemplos que reproduzam um estágio de desenvolvimento funcional.
-
-Descreva o passo a ser tomado
-
-```
-Dê um exemplo
-```
-
-Repita
-
-```
-Até terminar
-```
-
-Finalize com um exemplos de como os dados são processados ou uma pequena demonstração.
+Então, estamos trabalhando em um projeto de programação para criar uma calculadora de juros compostos. O objetivo é criar uma ferramenta simples onde alguém possa inserir três informações básicas: o valor inicial do investimento ou empréstimo, a taxa de juros mensal e a duração do investimento em meses. Com base nessas informações, a calculadora vai mostrar quanto o investimento vai valer no futuro.
 
 ## 🎈 Uso <a name="uso"></a>
-Descreva como utilizar seu app ou sistema.
+- Valor Inicial: Este é o montante de dinheiro que você está investindo inicialmente Digite o valor inicial do seu investimento.
+
+- Taxa de Juros por Mês: Esta é a taxa de juros que será aplicada a cada mês ao seu investimento. Por exemplo, se a taxa de juros é de 1% ao mês, você digitaria 1 nesta caixa.
+
+- Número de Meses: Este é o período de tempo, em meses, durante o qual os juros serão calculados. Por exemplo, se você deseja calcular os juros compostos ao longo de um período de 12 meses, digite 12 nesta caixa.
 
 ## 🚀 Realizando o Deploying <a name = "deployment"></a>
-Descreva como realizar o deployment de seu projeto.
+Deploy realizado no proprio GitHub Pages.
 
-## ⛏️ Feito Com <a name = "feito_com"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
+## ⛏️ Feito <a name = "feito_com"></a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## ✍️ Autores <a name = "autores"></a>
-- [@kylelobo](https://github.com/kylelobo) - Ideia & Trabalho inicial
-
-Confira também a lista de [contribuidores](https://github.com/kylelobo/The-Documentation-Compendium/contributors) que participaram nesse projeto.
-
-## 🎉 Agradecimentos <a name = "agradecimentos"></a>
-+ Agradecimentos a terceiros, autores ou não de código utilizado nesse projeto.
-+ Inpiraçōes
-+ Referêcias
+- [@LucasSerafimx](https://github.com/LucasSerafimx) - Ideia & Trabalho inicial
+s
